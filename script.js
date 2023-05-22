@@ -9,8 +9,7 @@ document.getElementById("result").value = Math.floor(Math.random() * (500 - 1) +
 }
 // This function evaluates the expression and return result
 
-function gen(no) {
-var input = document.getElementById("result").value
+t.getElementById("result").value
 
 var ans = input + no;
 document.getElementById("result").value = ans;
